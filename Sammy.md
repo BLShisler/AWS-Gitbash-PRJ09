@@ -1,1 +1,1 @@
-Hello class!
+Goodbye everyone!
